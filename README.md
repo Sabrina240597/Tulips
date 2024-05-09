@@ -1,3 +1,1 @@
-# Tulips
-tulipanes con Python 🌷🐍
-(no se olviden de instalar docx “pip install python-docx”)
+Aprovechando las capacidades de Python, este proyecto se centra en la creación dinámica de documentos relacionados con tulipanes. Para comenzar, asegúrate de instalar la biblioteca python-docx ejecutando el comando pip install python-docx.🌷🐍
